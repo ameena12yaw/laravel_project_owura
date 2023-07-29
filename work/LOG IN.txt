@@ -1,0 +1,6 @@
+NB: navigate to localhost/admin/login
+
+
+
+email = admin@admin.com
+password = password
